@@ -152,7 +152,7 @@ https://sunny1727.github.io/Portfolio/
 https://github.com/sunny1727
 
 💼 **LinkedIn**  
-https://www.linkedin.com/in/sunny-singh-639654285?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+https://www.linkedin.com/in/sunny-singh-639654285
 
 📧 **Email**  
 sunnesingh7104@gmail.com
