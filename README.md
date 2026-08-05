@@ -135,7 +135,7 @@ A desktop-based Library Management System developed using Core Java, Java Swing 
 
 **Tech Stack**
 
-Core Java • Java Swing • MySQL
+Core Java • Java Swing • JDBC • MySQL
 
 📂 **Source Code**
 
